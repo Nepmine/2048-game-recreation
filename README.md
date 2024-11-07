@@ -1,4 +1,4 @@
-2048 Game
+2048 Game:
 A simple, console-based version of the popular 2048 puzzle game implemented in C. Use W, A, S, and D keys to combine matching tiles on a 4x4 grid until you reach the 2048 tile. The game includes a scoring system with bonus points for merging higher-value tiles!
 
 Table of Contents
